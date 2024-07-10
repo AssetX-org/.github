@@ -17,7 +17,7 @@ Our product, AssetX, is a revolutionary marketplace for atomic assets leveraging
 - **Decentralized Infrastructure:** Entire database stored on Arweave (AO) with Lua, ensuring decentralized and tamper-proof data management.
 - **Future-Proof:** Planned enhancements include tokenomics and data versioning, providing users with a forward-looking platform for digital assets.
 
-### Tech Stack
+# Tech Stack
 - **Verification:** Zero-knowledge proofs with ZoKrates (generation algorithm - Groth16)
 - **Frontend:** React, Tailwind, Framer Motion
 - **Backend:** AO using Lua, Database on Arweave
