@@ -21,3 +21,6 @@ Our product, AssetX, is a revolutionary marketplace for atomic assets leveraging
 - **Verification:** Zero-knowledge proofs with ZoKrates (generation algorithm - Groth16)
 - **Frontend:** React, Tailwind, Framer Motion
 - **Backend:** AO using Lua, Database on Arweave
+  
+# Screenshot
+<img width="1398" alt="Screenshot 2024-07-10 at 3 48 26 PM" src="https://github.com/AssetX-org/.github/assets/91543514/65f9a082-6738-4329-961a-444c6be48e83">
